@@ -1,5 +1,5 @@
 
-![Logo]([https://i.ibb.co/Rb0QnWx/PWN3R5.png](https://i.ibb.co/L5pXKDW/PWN3-R5-1.png))
+![Logo]((https://i.ibb.co/L5pXKDW/PWN3-R5-1.png))
 
 
 # PwnPuppets
