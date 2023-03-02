@@ -17,7 +17,6 @@ def generate_random_id():
 
 
 id = generate_random_id()
-
 folder = "puppets"
 filename = f"{id}.txt"
 filepath = os.path.join(folder, filename)
