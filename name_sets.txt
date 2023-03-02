@@ -1,0 +1,12 @@
+US ---> United States
+AU ---> Australia
+BR ---> Brazil
+HR ---> Croatia
+DK ---> Denmark
+FR ---> France
+IT ---> Italy
+JP ---> Japan
+FA ---> Persian
+RU ---> Russia
+VN ---> Vietnam
+Ninja > Ninja

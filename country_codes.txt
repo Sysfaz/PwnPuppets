@@ -1,0 +1,13 @@
+US ---> United States
+UK ---> United Kingdom
+AU ---> Australia
+BR ---> Brazil
+CA ---> Canada
+DK ---> Denmark
+FR ---> France
+GR ---> Germany
+NL ---> Netherlands
+NZ ---> New Zealand
+PT ---> Portugal
+ZA ---> South Africa
+SP ---> Spain
