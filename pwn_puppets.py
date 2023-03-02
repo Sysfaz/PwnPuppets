@@ -7,6 +7,8 @@ import random
 import string
 from fancy import colors
 
+os.system("clear")
+
 
 def generate_random_id():
     chars = string.ascii_letters + string.digits
