@@ -1,5 +1,5 @@
 
-![Logo]((https://i.ibb.co/L5pXKDW/PWN3-R5-1.png))
+![Logo](https://i.ibb.co/L5pXKDW/PWN3-R5-1.png)
 
 
 # PwnPuppets
@@ -37,5 +37,5 @@ python pwn_puppets.py --help
 Every `puppet` will saved at `puppets/` with the name of generated 6 digit `id`.
 
 ## 🚀 About Me
-I'm `SysFaz` a `PWNER` of `THE PWNERS` Ethical Hacking Group.
+I'm `SysFaz` a `PWNER` of `PWNERS Hacking Group`
 
