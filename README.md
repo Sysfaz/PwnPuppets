@@ -37,5 +37,5 @@ python pwn_puppets.py --help
 Every `puppet` will saved at `puppets/` with the name of generated 6 digit `id`.
 
 ## 🚀 About Me
-I'm `SysFaz` a `PWNER` of `PWNERS Hacking Group`
+I'm `SysFaz` a `PWNER` of the `PWNERS` Ethical Hacking Group.
 
